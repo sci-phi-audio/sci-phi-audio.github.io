@@ -1,0 +1,7 @@
+name: SciPhi_review
+title: "Sci-Phi: A Large Language Model Spatial Audio Descriptor"
+url: "https://sci-phi-audio.github.io/demo"
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: true
+plugins:
+- jekyll-remote-theme
