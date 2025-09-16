@@ -1,6 +1,6 @@
-name: AAD-LLM_root
-title: "AAD-LLM: Neural Attention-Driven Auditory Scene Understanding"
-url: "https://aad-llm.github.io"
+name: SciPhi_root
+title: "Sci-Phi: A Large Language Model Spatial Audio Descriptor"
+url: "https://sci-phi-audio.github.io"
 remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: true
 plugins:
