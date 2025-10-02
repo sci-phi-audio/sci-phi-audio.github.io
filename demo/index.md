@@ -114,8 +114,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         <span class="label">Nature:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">horizontal left</span>, <span class="kv">1.1m</span>, <span class="kv">-64dB</span>, <span class="kv">10dB</span>).<br>
       </td>
       <td>
-        room_volume=<span class="kv">Unknown</span>; RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">2</span>. noise_label: <span class="kv">ambient noise</span>; noise_loudness=<span class="kv">-74dB</span>.<br>
+        room_volume=<span class="kv">Unknown</span>; RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">2</span>.<br>noise_label: <span class="kv">ambient noise</span>; noise_loudness=<span class="kv">-74dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">He is an extraordinary writer on so many levels.</span>’:<br>
         (<span class="kv">4.9s-9.3s</span>, <span class="dir">horizontal left</span>, <span class="kv">1.5m</span>, <span class="kv">-49dB</span>, <span class="kv">9dB</span>);<br>
