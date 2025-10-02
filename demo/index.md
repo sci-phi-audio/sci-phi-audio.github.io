@@ -39,7 +39,7 @@ layout: review
 </style>
 
 <div style="background-color: #FFF2E5; padding: 15px; border-left: 5px solid #FFB899; font-style: italic;">
-The audio samples were converted from ambisonics into binaural. We recommend listening with a headset to hear spatial cues (source direction).
+The audio samples were converted from ambisonics into binaural. We strongly recommend listening with a headset in order to hear spatial cues (source direction).
 </div>
 
 <hr style="height: 3px; background-color: grey; border: none;">
