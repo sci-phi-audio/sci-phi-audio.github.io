@@ -2,6 +2,8 @@
 layout: review
 ---
 
+<u>***Xilin Jiang***</u> (Columbia University, work done as an intern in MSR), <u>***Hannes Gamper***</u> (Microsoft Research), <u>***Sebastian Braun***</u> (Microsoft Research)
+
 <img src="../figures/model.png" style="width: 90%; display: block; margin: auto;">
 
 <style>
@@ -98,7 +100,6 @@ document.addEventListener('click', function (e) {
     background: #F9FAFB; color: #111827; font-weight: 600;
   }
 </style>
-
 
 <span style="color: black;">
 <b>Abstract</b>: Acoustic scene perception spans what the sound is, when it occurs, where it is in direction and distance, and how it sounds in loudness and reverberation. While audio language models excel in sound recognition, single-channel input fundamentally limits spatial understanding. This work presents <em><strong>Sci-Phi</strong></em>, a spatial audio large language model with dual spatial and spectral encoders that estimates a complete parameter set for all sound sources and the surrounding environment. Learning from over 4,000 hours of synthetic first-order ambisonics recordings and their metadata, <em><strong>Sci-Phi</strong></em> enumerates and describes up to four sound sources in one pass, alongside background noise and room characteristics. We evaluate the model with a carefully designed permutation-invariant protocol and 15 metrics covering content, location, timing, loudness, and reverberation, and analyze its robustness across various signal-to-noise ratios, reverberation levels, and challenging cases such as spatially, temporally, or semantically overlapping sound sources. Notably, <em><strong>Sci-Phi</strong></em> generalizes to real room impulse responses with only minor performance degradation. Overall, this work establishes the first audio LLM capable of full spatial-scene description, with strong potential for real-world deployment.
