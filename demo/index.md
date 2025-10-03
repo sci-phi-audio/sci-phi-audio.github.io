@@ -39,6 +39,39 @@ layout: review
   .model-name b { color: black; }
 </style>
 
+<script>
+document.addEventListener('click', function (e) {
+  const btn = e.target.closest('.gt-toggle');
+  if (!btn) return;
+
+  const targetId = btn.getAttribute('data-target');
+  const table = document.getElementById(targetId);
+  if (!table) return;
+
+  const expanded = btn.getAttribute('aria-expanded') === 'true';
+  const gtRows = table.querySelectorAll('.gt-row');
+
+  gtRows.forEach(row => row.style.display = expanded ? 'none' : 'table-row');
+  btn.setAttribute('aria-expanded', (!expanded).toString());
+  btn.textContent = expanded ? 'Show the ground-truth' : 'Hide the ground-truth';
+});
+</script>
+
+<style>
+  .gt-header {
+    display: flex; align-items: center; justify-content: space-between; gap: .75rem;
+  }
+  .gt-toggle {
+    font: inherit; padding: .25rem .5rem; border: 1px solid #D1D5DB; border-radius: .375rem;
+    background: #F9FAFB; cursor: pointer;
+  }
+  .gt-toggle:hover { background: #F3F4F6; }
+  /* Make the Ground-truth section visually distinct when shown */
+  .gt-heading {
+    background: #F9FAFB; color: #111827; font-weight: 600;
+  }
+</style>
+
 
 <span style="color: black;">
 <b>Abstract</b>: Acoustic scene perception spans what the sound is, when it occurs, where it is in direction and distance, and how it sounds in loudness and reverberation. While audio language models excel in sound recognition, single-channel input fundamentally limits spatial understanding. This work presents <em><strong>Sci-Phi</strong></em>, a spatial audio large language model with dual spatial and spectral encoders that estimates a complete parameter set for all sound sources and the surrounding environment. Learning from over 4,000 hours of synthetic first-order ambisonics recordings and their metadata, <em><strong>Sci-Phi</strong></em> enumerates and describes up to four sound sources in one pass, alongside background noise and room characteristics. We evaluate the model with a carefully designed permutation-invariant protocol and 15 metrics covering content, location, timing, loudness, and reverberation, and analyze its robustness across various signal-to-noise ratios, reverberation levels, and challenging cases such as spatially, temporally, or semantically overlapping sound sources. Notably, <em><strong>Sci-Phi</strong></em> generalizes to real room impulse responses with only minor performance degradation. Overall, this work establishes the first audio LLM capable of full spatial-scene description, with strong potential for real-world deployment.
@@ -641,7 +674,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 1</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_8729_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_8729_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -687,7 +720,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 2</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_6715_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_6715_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -734,7 +767,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 3</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_2280_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_2280_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -781,7 +814,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 4</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_2952_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_2952_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -827,7 +860,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 5</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_5438_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_5438_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -872,7 +905,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 6</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_4550_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_4550_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -920,7 +953,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 7</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_1076_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_1076_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -964,7 +997,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 8</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_1144_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_1144_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1008,7 +1041,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 9</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_1339_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_1339_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1050,7 +1083,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 10</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_1358_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_1358_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1091,9 +1124,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 
 
-
 <hr style="height: 3px; background-color: grey; border: none;">
 
-UNDER CONSTRUCTION
+QA
 
 
