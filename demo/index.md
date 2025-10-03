@@ -1130,7 +1130,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     <b><i>"Can you tell me about the room characteristics of this audio?"</i></b>
 <br>
     <audio controls>
-      <source src="../samples/real_rir_QA/binaural/Enviroment.wav" type="audio/wav">
+      <source src="../samples/real_rir_QA/binaural/Environment.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
