@@ -135,9 +135,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">1000m^3</span>;<br>
-        RT60=<span class="kv">0.4s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient sound</span>;<br>
+        room_volume=<span class="kv">1000m^3</span>;
+        RT60=<span class="kv">0.4s</span>;
+        n_src=<span class="kv">4</span>. <br>noise_label: <span class="kv">ambient sound</span>;
         noise_loudness=<span class="kv">-45dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">I can understand why they have gone away.</span>’:<br>
@@ -147,10 +147,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         <span class="label">kick bass drum:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">horizontal front-right</span>, <span class="kv">3.4m</span>, <span class="kv">-33dB</span>, <span class="kv">12dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">1900m^3</span>;<br>
-        RT60=<span class="kv">0.4s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient electronic hum</span>;<br>
-        noise_loudness=<span class="kv">-48dB</span>.<br>
+        room_volume=<span class="kv">1900m^3</span>;
+        RT60=<span class="kv">0.4s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient electronic hum</span>;noise_loudness=<span class="kv">-48dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">I can understand why they have gone.</span>’:<br>
         (<span class="kv">5.2s-8.5s</span>, <span class="dir">upper front-left</span>, <span class="kv">1.3m</span>, <span class="kv">-19dB</span>, <span class="kv">19dB</span>);<br>
@@ -181,10 +180,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">1500m^3</span>;<br>
-        RT60=<span class="kv">0.3s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient sounds</span>;<br>
-        noise_loudness=<span class="kv">-59dB</span>.<br>
+        room_volume=<span class="kv">1500m^3</span>;
+        RT60=<span class="kv">0.3s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient sounds</span>;noise_loudness=<span class="kv">-59dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">Of course, on a diet like this one, I wouldn't recommend.</span>’:<br>
         (<span class="kv">4.1s-8.2s</span>, <span class="dir">upper front-left</span>, <span class="kv">0.8m</span>, <span class="kv">-33dB</span>, <span class="kv">27dB</span>);<br>
@@ -193,10 +191,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         <span class="label">Nature:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">horizontal front-left</span>, <span class="kv">2.0m</span>, <span class="kv">-42dB</span>, <span class="kv">20dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">1900m^3</span>;<br>
-        RT60=<span class="kv">0.3s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">computer powering down</span>;<br>
-        noise_loudness=<span class="kv">-58dB</span>.<br>
+        room_volume=<span class="kv">1900m^3</span>;
+        RT60=<span class="kv">0.3s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">computer powering down</span>;noise_loudness=<span class="kv">-58dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">Of course, on Tuesday, United were beaten despite this.</span>’:<br>
         (<span class="kv">4.0s-7.9s</span>, <span class="dir">upper front-left</span>, <span class="kv">0.8m</span>, <span class="kv">-33dB</span>, <span class="kv">24dB</span>);<br>
@@ -228,10 +225,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">200m^3</span>;<br>
-        RT60=<span class="kv">0.5s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">rain</span>;<br>
-        noise_loudness=<span class="kv">-47dB</span>.<br>
+        room_volume=<span class="kv">200m^3</span>;
+        RT60=<span class="kv">0.5s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">rain</span>;noise_loudness=<span class="kv">-47dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">female voice:</span>(<span class="kv">4.7s-6.6s</span>, <span class="dir">lower front-right</span>, <span class="kv">1.1m</span>, <span class="kv">-25dB</span>, <span class="kv">10dB</span>);<br>
         <span class="label">applause:</span>(<span class="kv">2.0s-7.8s</span>, <span class="dir">lower back-right</span>, <span class="kv">2.4m</span>, <span class="kv">-26dB</span>, <span class="kv">7dB</span>);<br>
@@ -240,10 +236,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         (<span class="kv">1.8s-4.7s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.0m</span>, <span class="kv">-37dB</span>, <span class="kv">11dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">200m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">storm</span>;<br>
-        noise_loudness=<span class="kv">-49dB</span>.<br>
+        room_volume=<span class="kv">200m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">storm</span>;noise_loudness=<span class="kv">-49dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">You must be ready to play anyone.</span>’:<br>
         (<span class="kv">3.8s-6.8s</span>, <span class="dir">lower front-right</span>, <span class="kv">0.8m</span>, <span class="kv">-26dB</span>, <span class="kv">11dB</span>);<br>
@@ -275,10 +270,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">800m^3</span>;<br>
-        RT60=<span class="kv">0.7s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">rain</span>;<br>
-        noise_loudness=<span class="kv">-55dB</span>.<br>
+        room_volume=<span class="kv">800m^3</span>;
+        RT60=<span class="kv">0.7s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">rain</span>;noise_loudness=<span class="kv">-55dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">animal growling:</span>(<span class="kv">2.6s-6.9s</span>, <span class="dir">upper front</span>, <span class="kv">0.8m</span>, <span class="kv">-15dB</span>, <span class="kv">17dB</span>);<br>
         <span class="label">dog barking, dog growling, dog whimpering:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">horizontal left</span>, <span class="kv">2.4m</span>, <span class="kv">-26dB</span>, <span class="kv">10dB</span>);<br>
@@ -287,10 +281,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         (<span class="kv">4.5s-6.8s</span>, <span class="dir">horizontal front-right</span>, <span class="kv">2.4m</span>, <span class="kv">-32dB</span>, <span class="kv">9dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">600m^3</span>;<br>
-        RT60=<span class="kv">0.7s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">thunder</span>;<br>
-        noise_loudness=<span class="kv">-54dB</span>.<br>
+        room_volume=<span class="kv">600m^3</span>;
+        RT60=<span class="kv">0.7s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">thunder</span>;noise_loudness=<span class="kv">-54dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">zombie, demon:</span>(<span class="kv">2.8s-6.0s</span>, <span class="dir">upper front</span>, <span class="kv">0.7m</span>, <span class="kv">-13dB</span>, <span class="kv">16dB</span>);<br>
         <span class="label">doberman pincher, barking:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">horizontal left</span>, <span class="kv">1.9m</span>, <span class="kv">-25dB</span>, <span class="kv">10dB</span>);<br>
@@ -321,10 +314,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">400m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">environmental sounds</span>;<br>
-        noise_loudness=<span class="kv">-52dB</span>.<br>
+        room_volume=<span class="kv">400m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">environmental sounds</span>;noise_loudness=<span class="kv">-52dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">soda can opening:</span>(<span class="kv">3.6s-4.3s</span>, <span class="dir">horizontal right</span>, <span class="kv">0.8m</span>, <span class="kv">-27dB</span>, <span class="kv">15dB</span>);<br>
         <span class="label">ringtone:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">upper front-left</span>, <span class="kv">0.8m</span>, <span class="kv">-29dB</span>, <span class="kv">15dB</span>);<br>
@@ -333,10 +325,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         (<span class="kv">3.7s-8.4s</span>, <span class="dir">lower back-left</span>, <span class="kv">2.1m</span>, <span class="kv">-42dB</span>, <span class="kv">9dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">700m^3</span>;<br>
-        RT60=<span class="kv">0.5s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">bell</span>;<br>
-        noise_loudness=<span class="kv">-54dB</span>.<br>
+        room_volume=<span class="kv">700m^3</span>;
+        RT60=<span class="kv">0.5s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">bell</span>;noise_loudness=<span class="kv">-54dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">beer can opening:</span>(<span class="kv">3.6s-5.7s</span>, <span class="dir">horizontal right</span>, <span class="kv">1.4m</span>, <span class="kv">-29dB</span>, <span class="kv">13dB</span>);<br>
         <span class="label">phone ringing:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">upper front-left</span>, <span class="kv">1.3m</span>, <span class="kv">-30dB</span>, <span class="kv">14dB</span>);<br>
@@ -366,10 +357,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">1500m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">not present</span>;<br>
-        noise_loudness=<span class="kv">None</span>.<br>
+        room_volume=<span class="kv">1500m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">not present</span>;noise_loudness=<span class="kv">None</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">I've lost my head.</span>’:<br>
         (<span class="kv">2.2s-5.6s</span>, <span class="dir">horizontal back</span>, <span class="kv">2.6m</span>, <span class="kv">-38dB</span>, <span class="kv">13dB</span>);<br>
@@ -379,10 +369,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         (<span class="kv">6.2s-8.2s</span>, <span class="dir">lower right</span>, <span class="kv">2.8m</span>, <span class="kv">-41dB</span>, <span class="kv">13dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">1000m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">not present</span>;<br>
-        noise_loudness=<span class="kv">None</span>.<br>
+        room_volume=<span class="kv">1000m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">not present</span>;noise_loudness=<span class="kv">None</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">I lost my head.</span>’:<br>
         (<span class="kv">3.1s-5.6s</span>, <span class="dir">horizontal back</span>, <span class="kv">2.6m</span>, <span class="kv">-38dB</span>, <span class="kv">12dB</span>);<br>
@@ -414,10 +403,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">500m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient bathroom sounds</span>;<br>
-        noise_loudness=<span class="kv">-55dB</span>.<br>
+        room_volume=<span class="kv">500m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient bathroom sounds</span>;noise_loudness=<span class="kv">-55dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">aluminium foil tearing:</span>(<span class="kv">6.3s-6.8s</span>, <span class="dir">horizontal back</span>, <span class="kv">1.2m</span>, <span class="kv">-25dB</span>, <span class="kv">14dB</span>);<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">We were in different places, and we talked for a while.</span>’:<br>
@@ -425,10 +413,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         <span class="label">fart:</span>(<span class="kv">8.6s-9.9s</span>, <span class="dir">horizontal front-left</span>, <span class="kv">2.4m</span>, <span class="kv">-43dB</span>, <span class="kv">10dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">500m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">horn</span>;<br>
-        noise_loudness=<span class="kv">-55dB</span>.<br>
+        room_volume=<span class="kv">500m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">horn</span>;noise_loudness=<span class="kv">-55dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">patting or tapping:</span>(<span class="kv">6.3s-6.6s</span>, <span class="dir">horizontal back-right</span>, <span class="kv">1.6m</span>, <span class="kv">-26dB</span>, <span class="kv">12dB</span>);<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">We were in different places, usually in cellars.</span>’:<br>
@@ -458,10 +445,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">500m^3</span>;<br>
-        RT60=<span class="kv">0.8s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">fireworks</span>;<br>
-        noise_loudness=<span class="kv">-68dB</span>.<br>
+        room_volume=<span class="kv">500m^3</span>;
+        RT60=<span class="kv">0.8s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">fireworks</span>;noise_loudness=<span class="kv">-68dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">explosion-like sound:</span>(<span class="kv">5.7s-9.1s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.1m</span>, <span class="kv">-45dB</span>, <span class="kv">10dB</span>);<br>
         <span class="label">water pouring:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">upper front</span>, <span class="kv">1.4m</span>, <span class="kv">-48dB</span>, <span class="kv">9dB</span>);<br>
@@ -469,10 +455,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         (<span class="kv">5.2s-8.6s</span>, <span class="dir">lower right</span>, <span class="kv">1.1m</span>, <span class="kv">-48dB</span>, <span class="kv">10dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">900m^3</span>;<br>
-        RT60=<span class="kv">0.9s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">priest walking in hard sole shoes</span>;<br>
-        noise_loudness=<span class="kv">-66dB</span>.<br>
+        room_volume=<span class="kv">900m^3</span>;
+        RT60=<span class="kv">0.9s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">priest walking in hard sole shoes</span>;noise_loudness=<span class="kv">-66dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">time bomb:</span>(<span class="kv">1.8s-8.3s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.6m</span>, <span class="kv">-47dB</span>, <span class="kv">10dB</span>);<br>
         <span class="label">pouring drink:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">upper front</span>, <span class="kv">2.1m</span>, <span class="kv">-48dB</span>, <span class="kv">9dB</span>);<br>
@@ -502,20 +487,18 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">1300m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">not present</span>;<br>
-        noise_loudness=<span class="kv">None</span>.<br>
+        room_volume=<span class="kv">1300m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">not present</span>;noise_loudness=<span class="kv">None</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">button click:</span>(<span class="kv">1.9s-2.4s</span>, <span class="dir">horizontal right</span>, <span class="kv">7.0m</span>, <span class="kv">-32dB</span>, <span class="kv">6dB</span>);<br>
         <span class="label">coin drop:</span>(<span class="kv">7.7s-8.5s</span>, <span class="dir">upper back-right</span>, <span class="kv">0.8m</span>, <span class="kv">-35dB</span>, <span class="kv">18dB</span>);<br>
         <span class="label">metal band:</span>(<span class="kv">1.5s-3.4s</span>, <span class="dir">horizontal back-left</span>, <span class="kv">2.5m</span>, <span class="kv">-42dB</span>, <span class="kv">10dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">1000m^3</span>;<br>
-        RT60=<span class="kv">0.7s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">not present</span>;<br>
-        noise_loudness=<span class="kv">None</span>.<br>
+        room_volume=<span class="kv">1000m^3</span>;
+        RT60=<span class="kv">0.7s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">not present</span>;noise_loudness=<span class="kv">None</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">button click:</span>(<span class="kv">1.9s-6.9s</span>, <span class="dir">horizontal right</span>, <span class="kv">9.5m</span>, <span class="kv">-34dB</span>, <span class="kv">6dB</span>);<br>
         <span class="label">metal impact:</span>(<span class="kv">7.8s-8.5s</span>, <span class="dir">horizontal back-right</span>, <span class="kv">0.7m</span>, <span class="kv">-35dB</span>, <span class="kv">18dB</span>);<br>
@@ -544,10 +527,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">500m^3</span>;<br>
-        RT60=<span class="kv">0.8s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">not present</span>;<br>
-        noise_loudness=<span class="kv">None</span>.<br>
+        room_volume=<span class="kv">500m^3</span>;
+        RT60=<span class="kv">0.8s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">not present</span>;noise_loudness=<span class="kv">None</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">human scream:</span>(<span class="kv">0.1s-7.1s</span>, <span class="dir">horizontal front-right</span>, <span class="kv">1.1m</span>, <span class="kv">-31dB</span>, <span class="kv">12dB</span>);<br>
         <span class="label">drum, snare:</span>(<span class="kv">1.8s-2.0s</span>, <span class="dir">upper back-right</span>, <span class="kv">0.9m</span>, <span class="kv">-42dB</span>, <span class="kv">13dB</span>);<br>
@@ -555,10 +537,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
         (<span class="kv">4.7s-8.9s</span>, <span class="dir">lower back-left</span>, <span class="kv">1.8m</span>, <span class="kv">-44dB</span>, <span class="kv">9dB</span>).
       </td>
       <td>
-        room_volume=<span class="kv">600m^3</span>;<br>
-        RT60=<span class="kv">0.8s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">not present</span>;<br>
-        noise_loudness=<span class="kv">None</span>.<br>
+        room_volume=<span class="kv">600m^3</span>;
+        RT60=<span class="kv">0.8s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">not present</span>;noise_loudness=<span class="kv">None</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">crow:</span>(<span class="kv">0.4s-6.4s</span>, <span class="dir">horizontal front-right</span>, <span class="kv">1.2m</span>, <span class="kv">-31dB</span>, <span class="kv">12dB</span>);<br>
         <span class="label">punch:</span>(<span class="kv">1.8s-2.2s</span>, <span class="dir">upper back-right</span>, <span class="kv">1.1m</span>, <span class="kv">-42dB</span>, <span class="kv">13dB</span>);<br>
@@ -599,10 +580,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">1000m^3</span>;<br>
-        RT60=<span class="kv">0.2s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-50dB</span>.<br>
+        room_volume=<span class="kv">1000m^3</span>;
+        RT60=<span class="kv">0.2s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-50dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">bricks falling:</span>(<span class="kv">2.7s-4.5s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.4m</span>, <span class="kv">-22dB</span>, <span class="kv">22dB</span>);<br>
         <span class="label">dough hook tapping:</span>(<span class="kv">1.3s-2.6s</span>, <span class="dir">horizontal back-right</span>, <span class="kv">0.8m</span>, <span class="kv">-25dB</span>, <span class="kv">27dB</span>);<br>
@@ -612,9 +592,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.2s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-72dB</span>.<br>
+        RT60=<span class="kv">0.2s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-72dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">toy train:</span>(<span class="kv">2.7s-4.4s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.5m</span>, <span class="kv">-21dB</span>, <span class="kv">28dB</span>);<br>
         <span class="label">wood block:</span>(<span class="kv">1.3s-2.1s</span>, <span class="dir">horizontal back-right</span>, <span class="kv">0.8m</span>, <span class="kv">-22dB</span>, <span class="kv">21dB</span>);<br>
@@ -645,10 +624,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">700m^3</span>;<br>
-        RT60=<span class="kv">0.2s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">not present</span>;<br>
-        noise_loudness=<span class="kv">None</span>.<br>
+        room_volume=<span class="kv">700m^3</span>;
+        RT60=<span class="kv">0.2s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">not present</span>;noise_loudness=<span class="kv">None</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">guitar:</span>(<span class="kv">2.2s-4.6s</span>, <span class="dir">horizontal back-left</span>, <span class="kv">1.0m</span>, <span class="kv">-27dB</span>, <span class="kv">25dB</span>);<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">Only one person can claim the credit.</span>’:<br>
@@ -657,9 +635,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-80dB</span>.<br>
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-80dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">piano:</span>(<span class="kv">2.2s-4.4s</span>, <span class="dir">horizontal back-left</span>, <span class="kv">0.8m</span>, <span class="kv">-26dB</span>, <span class="kv">27dB</span>);<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">Only one person can claim the credit.</span>’:<br>
@@ -691,10 +668,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">700m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient room noise</span>;<br>
-        noise_loudness=<span class="kv">-64dB</span>.<br>
+        room_volume=<span class="kv">700m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient room noise</span>;noise_loudness=<span class="kv">-64dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">Bongo, Congo:</span>(<span class="kv">1.9s-2.1s</span>, <span class="dir">horizontal front</span>, <span class="kv">0.8m</span>, <span class="kv">-35dB</span>, <span class="kv">16dB</span>);<br>
         <span class="label">clapping:</span>(<span class="kv">1.6s-3.4s</span>, <span class="dir">horizontal left</span>, <span class="kv">0.7m</span>, <span class="kv">-40dB</span>, <span class="kv">17dB</span>);<br>
@@ -703,9 +679,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">1.3s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-77dB</span>.<br>
+        RT60=<span class="kv">1.3s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-77dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">hit drum:</span>(<span class="kv">1.8s-2.2s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.5m</span>, <span class="kv">-36dB</span>, <span class="kv">13dB</span>);<br>
         <span class="label">hand clap:</span>(<span class="kv">1.7s-3.3s</span>, <span class="dir">horizontal left</span>, <span class="kv">0.8m</span>, <span class="kv">-39dB</span>, <span class="kv">16dB</span>);<br>
@@ -736,10 +711,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">700m^3</span>;<br>
-        RT60=<span class="kv">0.3s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient environmental sounds</span>;<br>
-        noise_loudness=<span class="kv">-55dB</span>.<br>
+        room_volume=<span class="kv">700m^3</span>;
+        RT60=<span class="kv">0.3s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient environmental sounds</span>;noise_loudness=<span class="kv">-55dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">female voice:</span>(<span class="kv">0.0s-10.0s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.1m</span>, <span class="kv">-28dB</span>, <span class="kv">20dB</span>);<br>
         <span class="label">English speech</span> with transcript ‘<span class="trans">Or maybe it's the other way around.</span>’:<br>
@@ -748,9 +722,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.5s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-62dB</span>.<br>
+        RT60=<span class="kv">0.5s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-62dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">Anyone remaining after that will be targeted.</span>’:<br>
         (<span class="kv">0.6s-5.0s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.5m</span>, <span class="kv">-26dB</span>, <span class="kv">16dB</span>);<br>
@@ -782,10 +755,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">400m^3</span>;<br>
-        RT60=<span class="kv">0.5s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-49dB</span>.<br>
+        room_volume=<span class="kv">400m^3</span>;
+        RT60=<span class="kv">0.5s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-49dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English speech</span> with transcript ‘<span class="trans">We don't want to be too intrusive.</span>’:<br>
         (<span class="kv">7.1s-9.8s</span>, <span class="dir">horizontal right</span>, <span class="kv">0.8m</span>, <span class="kv">-20dB</span>, <span class="kv">15dB</span>);<br>
@@ -796,9 +768,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.7s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-65dB</span>.<br>
+        RT60=<span class="kv">0.7s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-65dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">We don't want to be too intrusive.</span>’:<br>
         (<span class="kv">7.1s-9.8s</span>, <span class="dir">horizontal right</span>, <span class="kv">0.8m</span>, <span class="kv">-20dB</span>, <span class="kv">16dB</span>);<br>
@@ -830,10 +801,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">2200m^3</span>;<br>
-        RT60=<span class="kv">0.5s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">not present</span>;<br>
-        noise_loudness=<span class="kv">None</span>.<br>
+        room_volume=<span class="kv">2200m^3</span>;
+        RT60=<span class="kv">0.5s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">not present</span>;noise_loudness=<span class="kv">None</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">tapping of broom, concrete floor, wooden broom scrape, woody thump:</span>(<span class="kv">8.3s-9.2s</span>, <span class="dir">upper front-right</span>, <span class="kv">0.7m</span>, <span class="kv">-32dB</span>, <span class="kv">23dB</span>);<br>
         <span class="label">sax baritone:</span>(<span class="kv">3.5s-6.9s</span>, <span class="dir">horizontal left</span>, <span class="kv">1.9m</span>, <span class="kv">-33dB</span>, <span class="kv">16dB</span>);<br>
@@ -842,9 +812,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.7s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-75dB</span>.<br>
+        RT60=<span class="kv">0.7s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-75dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">wood block:</span>(<span class="kv">8.3s-9.1s</span>, <span class="dir">horizontal front-right</span>, <span class="kv">0.8m</span>, <span class="kv">-27dB</span>, <span class="kv">27dB</span>);<br>
         <span class="label">organ:</span>(<span class="kv">4.1s-5.9s</span>, <span class="dir">horizontal left</span>, <span class="kv">1.5m</span>, <span class="kv">-30dB</span>, <span class="kv">18dB</span>);<br>
@@ -874,10 +843,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">1000m^3</span>;<br>
-        RT60=<span class="kv">0.4s</span>;<br>
-        n_src=<span class="kv">4</span>. noise_label: <span class="kv">thunder</span>;<br>
-        noise_loudness=<span class="kv">-72dB</span>.<br>
+        room_volume=<span class="kv">1000m^3</span>;
+        RT60=<span class="kv">0.4s</span>;
+        n_src=<span class="kv">4</span>.<br>noise_label: <span class="kv">thunder</span>;noise_loudness=<span class="kv">-72dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English speech</span> with transcript ‘<span class="trans">It's a delightful idea, but the implementation is extremely complicated.</span>’:<br>
         (<span class="kv">4.4s-7.3s</span>, <span class="dir">horizontal front</span>, <span class="kv">0.8m</span>, <span class="kv">-42dB</span>, <span class="kv">19dB</span>);<br>
@@ -889,9 +857,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.7s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-65dB</span>.<br>
+        RT60=<span class="kv">0.7s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-65dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">The party is up for it.</span>’:<br>
         (<span class="kv">2.9s-4.9s</span>, <span class="dir">horizontal back-left</span>, <span class="kv">0.8m</span>, <span class="kv">-40dB</span>, <span class="kv">19dB</span>);<br>
@@ -923,10 +890,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">500m^3</span>;<br>
-        RT60=<span class="kv">0.4s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient background noise</span>;<br>
-        noise_loudness=<span class="kv">-55dB</span>.<br>
+        room_volume=<span class="kv">500m^3</span>;
+        RT60=<span class="kv">0.4s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient background noise</span>;noise_loudness=<span class="kv">-55dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">We want to sort it out.</span>’:<br>
         (<span class="kv">5.0s-7.3s</span>, <span class="dir">horizontal right</span>, <span class="kv">1.6m</span>, <span class="kv">-35dB</span>, <span class="kv">12dB</span>);<br>
@@ -937,9 +903,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-66dB</span>.<br>
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-66dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">We want to sort it out.</span>’:<br>
         (<span class="kv">5.0s-7.3s</span>, <span class="dir">horizontal right</span>, <span class="kv">1.5m</span>, <span class="kv">-35dB</span>, <span class="kv">13dB</span>);<br>
@@ -971,10 +936,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">700m^3</span>;<br>
-        RT60=<span class="kv">0.4s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient sounds</span>;<br>
-        noise_loudness=<span class="kv">-55dB</span>.<br>
+        room_volume=<span class="kv">700m^3</span>;
+        RT60=<span class="kv">0.4s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient sounds</span>;noise_loudness=<span class="kv">-55dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">brass bell:</span>(<span class="kv">2.4s-3.1s</span>, <span class="dir">horizontal left</span>, <span class="kv">0.7m</span>, <span class="kv">-28dB</span>, <span class="kv">20dB</span>);<br>
         <span class="label">Military:</span>(<span class="kv">2.5s-8.6s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.1m</span>, <span class="kv">-30dB</span>, <span class="kv">17dB</span>);<br>
@@ -982,9 +946,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">1.7s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-85dB</span>.<br>
+        RT60=<span class="kv">1.7s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-85dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">bicycle bell:</span>(<span class="kv">2.4s-3.3s</span>, <span class="dir">horizontal left</span>, <span class="kv">0.8m</span>, <span class="kv">-29dB</span>, <span class="kv">19dB</span>);<br>
         <span class="label">toy train:</span>(<span class="kv">3.1s-7.3s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.5m</span>, <span class="kv">-30dB</span>, <span class="kv">14dB</span>);<br>
@@ -1013,19 +976,17 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">500m^3</span>;<br>
-        RT60=<span class="kv">0.4s</span>;<br>
-        n_src=<span class="kv">1</span>. noise_label: <span class="kv">car horn</span>;<br>
-        noise_loudness=<span class="kv">-35dB</span>.<br>
+        room_volume=<span class="kv">500m^3</span>;
+        RT60=<span class="kv">0.4s</span>;
+        n_src=<span class="kv">1</span>.<br>noise_label: <span class="kv">car horn</span>;noise_loudness=<span class="kv">-35dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English speech</span> with transcript ‘<span class="trans">That is giving me great confidence.</span>’:<br>
         (<span class="kv">2.8s-9.9s</span>, <span class="dir">horizontal left</span>, <span class="kv">0.7m</span>, <span class="kv">-40dB</span>, <span class="kv">19dB</span>).
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">2</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-76dB</span>.<br>
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">2</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-76dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">organ:</span>(<span class="kv">2.9s-5.0s</span>, <span class="dir">horizontal front-left</span>, <span class="kv">1.5m</span>, <span class="kv">-22dB</span>, <span class="kv">11dB</span>);<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">That has given me great confidence.</span>’:<br>
@@ -1054,10 +1015,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">1500m^3</span>;<br>
-        RT60=<span class="kv">0.2s</span>;<br>
-        n_src=<span class="kv">2</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-55dB</span>.<br>
+        room_volume=<span class="kv">1500m^3</span>;
+        RT60=<span class="kv">0.2s</span>;
+        n_src=<span class="kv">2</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-55dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">hi hat:</span>(<span class="kv">7.9s-9.9s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.8m</span>, <span class="kv">-28dB</span>, <span class="kv">22dB</span>);<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">They had to be cut from the wreckage.</span>’:<br>
@@ -1065,9 +1025,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.2s</span>;<br>
-        n_src=<span class="kv">2</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-72dB</span>.<br>
+        RT60=<span class="kv">0.2s</span>;
+        n_src=<span class="kv">2</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-72dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">shaker:</span>(<span class="kv">7.9s-10.0s</span>, <span class="dir">horizontal front</span>, <span class="kv">1.5m</span>, <span class="kv">-29dB</span>, <span class="kv">25dB</span>);<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">They had to be cut from the wreckage.</span>’:<br>
@@ -1096,10 +1055,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">1000m^3</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">2</span>. noise_label: <span class="kv">ambient room sounds</span>;<br>
-        noise_loudness=<span class="kv">-55dB</span>.<br>
+        room_volume=<span class="kv">1000m^3</span>;
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">2</span>.<br>noise_label: <span class="kv">ambient room sounds</span>;noise_loudness=<span class="kv">-55dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">electronic alarm:</span>(<span class="kv">5.1s-9.7s</span>, <span class="dir">horizontal front</span>, <span class="kv">0.8m</span>, <span class="kv">-34dB</span>, <span class="kv">17dB</span>);<br>
         <span class="label">English speech</span> with transcript ‘<span class="trans">That was never her agenda.</span>’:<br>
@@ -1107,9 +1065,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.7s</span>;<br>
-        n_src=<span class="kv">2</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-67dB</span>.<br>
+        RT60=<span class="kv">0.7s</span>;
+        n_src=<span class="kv">2</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-67dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">security buzzer:</span>(<span class="kv">6.1s-8.4s</span>, <span class="dir">horizontal front-right</span>, <span class="kv">1.5m</span>, <span class="kv">-33dB</span>, <span class="kv">18dB</span>);<br>
         <span class="label">English female speech</span> with transcript ‘<span class="trans">That was never their agenda.</span>’:<br>
@@ -1138,10 +1095,9 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
     <tr>
       <td>
-        room_volume=<span class="kv">200m^3</span>;<br>
-        RT60=<span class="kv">0.5s</span>;<br>
-        n_src=<span class="kv">3</span>. noise_label: <span class="kv">stairs</span>;<br>
-        noise_loudness=<span class="kv">-79dB</span>.<br>
+        room_volume=<span class="kv">200m^3</span>;
+        RT60=<span class="kv">0.5s</span>;
+        n_src=<span class="kv">3</span>.<br>noise_label: <span class="kv">stairs</span>;noise_loudness=<span class="kv">-79dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">He is an extraordinary writer on so many levels.</span>’:<br>
         (<span class="kv">5.0s-9.7s</span>, <span class="dir">horizontal left</span>, <span class="kv">1.1m</span>, <span class="kv">-51dB</span>, <span class="kv">10dB</span>);<br>
@@ -1150,9 +1106,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
       </td>
       <td>
         room_volume=<span class="kv">Unknown</span>;<br>
-        RT60=<span class="kv">0.6s</span>;<br>
-        n_src=<span class="kv">2</span>. noise_label: <span class="kv">ambient noise</span>;<br>
-        noise_loudness=<span class="kv">-74dB</span>.<br>
+        RT60=<span class="kv">0.6s</span>;
+        n_src=<span class="kv">2</span>.<br>noise_label: <span class="kv">ambient noise</span>;noise_loudness=<span class="kv">-74dB</span>.<br>
         Sound label: (time, direction, distance, loudness, C50):<br>
         <span class="label">English male speech</span> with transcript ‘<span class="trans">He is an extraordinary writer on so many levels.</span>’:<br>
         (<span class="kv">4.9s-9.3s</span>, <span class="dir">horizontal left</span>, <span class="kv">1.5m</span>, <span class="kv">-49dB</span>, <span class="kv">9dB</span>);<br>
