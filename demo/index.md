@@ -4,7 +4,6 @@ layout: review
 
 <img src="../figures/model.png" style="width: 90%; display: block; margin: auto;">
 
-
 <style>
   /* Container + table layout */
   .table-container {
@@ -31,44 +30,9 @@ layout: review
 
   /* Coloring helpers */
   .kv    { color: #111827; font-weight: 700; }   /* numbers/units/values (black, bold) */
-  .label { color: #065F46; font-weight: 700; }   /* actual sound labels (green, bold) */
+  .label { color: #0A2472; font-weight: 700; }   /* actual sound labels (green, bold) */
   .dir   { color: #991B1B; font-weight: 700; }   /* directions (red, bold) */
-  .trans { color: #065F46; font-style: italic; } /* transcript (green, italic) */
-
-  /* Existing model-name styling */
-  .model-name { color: grey; font-weight: bold; }
-  .model-name b { color: black; }
-</style>
-
-<style>
-  /* Container + table layout */
-  .table-container {
-    overflow-x: auto;
-    width: 100%;
-    color: #6B7280;                 /* default gray text */
-  }
-  .table-container table {
-    width: max-content;
-    border-collapse: collapse;
-    border: 1px solid grey;
-  }
-  .table-container th,
-  .table-container td {
-    padding: 10px;
-    border: 1px solid black;
-    text-align: left;
-    vertical-align: top;            /* top-align cells */
-  }
-
-  /* Wrapping: headers stay on one line; cells wrap (or honor <br>) */
-  .table-container th { white-space: nowrap; color:#111827; }
-  .table-container td { white-space: normal; }   /* <= put this AFTER any th,td white-space rules */
-
-  /* Coloring helpers */
-  .kv    { color: #111827; font-weight: 700; }   /* numbers/units/values (black, bold) */
-  .label { color: #065F46; font-weight: 700; }   /* actual sound labels (green, bold) */
-  .dir   { color: #991B1B; font-weight: 700; }   /* directions (red, bold) */
-  .trans { color: #065F46; font-style: italic; } /* transcript (green, italic) */
+  .trans { color: #0A2472; font-style: italic; } /* transcript (green, italic) */
 
   /* Existing model-name styling */
   .model-name { color: grey; font-weight: bold; }
