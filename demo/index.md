@@ -114,7 +114,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 <!-- ========== Synthetic-RIR (START) ========== -->
 <details class="accordion">
-  <summary>Synthetic-RIR <span class="chev">▶</span></summary>
+  <summary>Synthetic-RIR Samples<span class="chev">▶</span></summary>
   <div class="section-body">
 <!-- === 🎧 Synthetic-RIR Sample 1 === -->
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -569,10 +569,6 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   </table>
 </div>
 
-
-
-<hr style="height: 3px; background-color: grey; border: none;">
-
   </div>
 </details>
 <!-- ========== Synthetic-RIR (END) ========== -->
@@ -582,7 +578,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 <!-- ========== Real-RIR (START) ========== -->
 <details class="accordion">
-  <summary>Real-RIR <span class="chev">▶</span></summary>
+  <summary>Real-RIR Samples<span class="chev">▶</span></summary>
   <div class="section-body">
 <!-- === 🎧 Real-RIR Sample 1 === -->
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -1165,9 +1161,6 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
   </table>
 </div>
-
-
-<hr style="height: 3px; background-color: grey; border: none;">
 
 
   </div>
