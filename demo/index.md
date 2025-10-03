@@ -1119,10 +1119,39 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   </div>
 </details>
 
-<!-- ========== Real-RIR (START) ========== -->
+<!-- ========== Real-RIR Q&A (START) ========== -->
 <details class="accordion">
   <summary>Real-RIR Q&A<span class="chev">▶</span></summary>
   <div class="section-body">
+
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <b><i>"Can you tell me about the room characteristics of this audio?"</i></b>
+<br>
+    <audio controls>
+      <source src="../samples/real_rir_QA/binaural/Enviroment.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<div class="table-container" markdown="0">
+  <table>
+    <tr>
+      <th>Generated Response</th>
+      <th>Ground-truth Response</th>
+    </tr>
+    <tr>
+      <td>
+        A low-reverberant large-sized room with high SNR.
+      </td>
+      <td>
+        A low-reverberant unknown-sized room with high SNR.“
+      </td>
+    </tr>
+  </table>
+</div>
 
   </div>
 </details>
