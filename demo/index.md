@@ -131,7 +131,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -176,7 +176,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -221,7 +221,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -266,7 +266,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -310,7 +310,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -353,7 +353,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -399,7 +399,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -441,7 +441,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -483,7 +483,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -523,7 +523,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -574,7 +574,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -618,7 +618,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -662,7 +662,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -705,7 +705,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -749,7 +749,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -795,7 +795,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -837,7 +837,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -884,7 +884,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -930,7 +930,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -970,7 +970,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -1009,7 +1009,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -1049,7 +1049,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -1089,7 +1089,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Description</th>
+      <th>Sci-Phi's Description</th>
       <th>Ground-truth Description</th>
     </tr>
     <tr>
@@ -1139,8 +1139,8 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 <div class="table-container" markdown="0">
   <table>
     <tr>
-      <th>Generated Response</th>
-      <th>Ground-truth Response</th>
+      <th>Sci-Phi's Answer</th>
+      <th>Ground-truth Answer</th>
     </tr>
     <tr>
       <td>
@@ -1152,6 +1152,120 @@ The audio samples were converted from ambisonics into binaural for headphones. W
     </tr>
   </table>
 </div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <b><i>"Please pick up the source with the largest volume."</i></b> <br><i>(Notice that there are multiple bells at different locations.)</i>
+<br>
+    <audio controls>
+      <source src="../samples/real_rir_QA/binaural/Loudest.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<div class="table-container" markdown="0">
+  <table>
+    <tr>
+      <th>Sci-Phi's Answer</th>
+      <th>Ground-truth Answer</th>
+    </tr>
+    <tr>
+      <td>
+        Bell:(3.8s-4.6s,horizontal front,1.0m).
+      </td>
+      <td>
+        Bicycle bell:(3.8s-4.6s,horizontal front,1.5m).
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <b><i>"Describe the type of sound heard in the upper right direction."</i></b>
+<br>
+    <audio controls>
+      <source src="../samples/real_rir_QA/binaural/Direction2Name.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<div class="table-container" markdown="0">
+  <table>
+    <tr>
+      <th>Sci-Phi's Answer</th>
+      <th>Ground-truth Answer</th>
+    </tr>
+    <tr>
+      <td>
+        Baby.
+      </td>
+      <td>
+        Baby; Bronx cheer.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <b><i>Where is the piano coming from?</i></b>
+<br>
+    <audio controls>
+      <source src="../samples/real_rir_QA/binaural/Name2Direction.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<div class="table-container" markdown="0">
+  <table>
+    <tr>
+      <th>Sci-Phi's Answer</th>
+      <th>Ground-truth Answer</th>
+    </tr>
+    <tr>
+      <td>
+        Horizontal back.
+      </td>
+      <td>
+        Horizontal back.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <b><i>What is the label of the sound in the lower left direction?</i></b>
+<br>
+    <audio controls>
+      <source src="../samples/real_rir_QA/binaural/Name2Direction.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<div class="table-container" markdown="0">
+  <table>
+    <tr>
+      <th>Sci-Phi's Answer</th>
+      <th>Ground-truth Answer</th>
+    </tr>
+    <tr>
+      <td>
+        No audio sources in lower left found.
+      </td>
+      <td>
+        No audio sources in lower left found.
+      </td>
+    </tr>
+  </table>
+</div>
+
 
   </div>
 </details>
