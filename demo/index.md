@@ -1127,7 +1127,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
-    <b><i>"Can you tell me about the room characteristics of this audio?"</i></b>
+    <b><i>Can you tell me about the room characteristics of this audio?</i></b>
 <br>
     <audio controls>
       <source src="../samples/real_rir_QA/binaural/Environment.wav" type="audio/wav">
@@ -1155,7 +1155,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
-    <b><i>"Please pick up the source with the largest volume."</i></b> <br><i>(Notice that there are multiple bells at different locations.)</i>
+    <b><i>Please pick up the source with the largest volume.</i></b> <br><i>(Notice that there are multiple bells at different locations.)</i>
 <br>
     <audio controls>
       <source src="../samples/real_rir_QA/binaural/Loudest.wav" type="audio/wav">
@@ -1184,7 +1184,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
-    <b><i>"Describe the type of sound heard in the upper right direction."</i></b>
+    <b><i>Describe the type of sound heard in the upper right direction.</i></b>
 <br>
     <audio controls>
       <source src="../samples/real_rir_QA/binaural/Direction2Name.wav" type="audio/wav">
