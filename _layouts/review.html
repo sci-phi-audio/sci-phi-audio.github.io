@@ -8,6 +8,15 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+
+    <style>
+      .main-content{max-width:90rem;padding-left:1rem;padding-right:1rem}
+      .page-header{padding-left:1rem;padding-right:1rem}
+      @media (min-width:1200px){.main-content{max-width:100rem}}
+      .table-container table{width:100%}
+      img{max-width:100%;height:auto}
+    </style>
+
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -29,10 +38,4 @@
   </body>
 </html>
 
-<style>
-  .main-content{max-width:90rem;padding-left:1rem;padding-right:1rem}
-  .page-header{padding-left:1rem;padding-right:1rem}
-  @media (min-width:1200px){.main-content{max-width:100rem}}
-  .table-container table{width:100%}
-  img{max-width:100%;height:auto}
-</style>
+
