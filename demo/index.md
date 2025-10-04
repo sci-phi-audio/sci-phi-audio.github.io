@@ -106,7 +106,7 @@ document.addEventListener('click', function (e) {
 </span>
 
 <div style="background-color: #FFF2E5; padding: 15px; border-left: 5px solid #FFB899; font-style: italic;">
-The audio samples were converted from ambisonics into binaural for headphones. We strongly recommend wearing headphones to hear spatial cues (source direction).
+The audio samples were converted from ambisonics into binaural for headphones. Please use headphones to hear the spatial cues correctly.
 </div>
 
 <hr style="height: 3px; background-color: grey; border: none;">
@@ -115,14 +115,14 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 <!-- ========== Synthetic-RIR (START) ========== -->
 <details class="accordion">
-  <summary>Synthetic-RIR Description<span class="chev">▶</span></summary>
+  <summary>Full Scene Description (Synthetic RIR Test Set)<span class="chev">▶</span></summary>
   <div class="section-body">
 <!-- === 🎧 Synthetic-RIR Sample 1 === -->
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
     <b>🎧 Synthetic-RIR Sample 1</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_8729_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_8729_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -167,7 +167,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 2</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_6715_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_6715_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -212,7 +212,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 3</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_2280_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_2280_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -257,7 +257,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 4</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_2952_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_2952_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -301,7 +301,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 5</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_5438_nsrc4.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_5438_nsrc4.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -344,7 +344,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 6</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_4550_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_4550_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -390,7 +390,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 7</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_1076_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_1076_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -432,7 +432,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 8</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_1144_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_1144_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -474,7 +474,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 9</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_1339_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_1339_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -514,7 +514,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
   <div>
     <b>🎧 Synthetic-RIR Sample 10</b><br>
     <audio controls>
-      <source src="../samples/synthetic_rir/binaural/mix_1358_nsrc3.wav" type="audio/wav">
+      <source src="../samples/syn_rir/binaural/mix_1358_nsrc3.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -558,7 +558,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 <!-- ========== Real-RIR (START) ========== -->
 <details class="accordion">
-  <summary>Real-RIR Description<span class="chev">▶</span></summary>
+  <summary>Full Scene Description (Real RIR Test Set)<span class="chev">▶</span></summary>
   <div class="section-body">
 <!-- === 🎧 Real-RIR Sample 1 === -->
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -1121,7 +1121,7 @@ The audio samples were converted from ambisonics into binaural for headphones. W
 
 <!-- ========== Real-RIR Q&A (START) ========== -->
 <details class="accordion">
-  <summary>Real-RIR Q&A<span class="chev">▶</span></summary>
+  <summary>Open-ended Question Answering (Real RIR Test Set)<span class="chev">▶</span></summary>
   <div class="section-body">
 
 
