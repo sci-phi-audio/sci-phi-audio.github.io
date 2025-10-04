@@ -10,23 +10,33 @@
     {% include head-custom.html %}
 
     <style>
-      .main-content,
-      .page-header {
-        max-width: none;                 /* remove theme cap */
-        width: min(100%, 100rem);         
+      /* ---- Content area (narrow/centered) ---- */
+      .main-content {
+        max-width: none;
+        width: min(100%, 100rem);   /* or min(80%, 100rem) if you want 80% */
         margin-left: auto;
         margin-right: auto;
         padding-left: 1rem;
         padding-right: 1rem;
       }
     
-      @media (max-width: 768px) {
-        .main-content,
-        .page-header { width: 100%; }
+      /* ---- Header (full-bleed blue bar) ---- */
+      .page-header {
+        /* make it span the entire viewport width regardless of container */
+        width: 100vw;
+        margin-left: calc(50% - 50vw);
+        margin-right: calc(50% - 50vw);
+        /* comfy side padding that scales with screen size */
+        padding-left: clamp(1rem, 4vw, 3rem);
+        padding-right: clamp(1rem, 4vw, 3rem);
       }
     
-      /* Tables and images still behave nicely inside the narrower content */
-      .table-container table { width: 80%; }
+      @media (max-width: 768px) {
+        .main-content { width: 100%; } /* keep content comfy on phones */
+      }
+    
+      /* Tables/images inside content */
+      .table-container table { width: 80%; }  /* or 100% if you prefer */
       img { max-width: 80%; height: auto; }
     </style>
     
