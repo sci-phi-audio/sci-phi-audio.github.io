@@ -10,26 +10,24 @@
     {% include head-custom.html %}
 
     <style>
-      /* Use ~80% of the page, centered; cap at a comfortable maximum */
       .main-content,
       .page-header {
         max-width: none;                 /* remove theme cap */
-        width: min(80%, 100rem);         /* 80% fluid, but never exceed ~1600px */
+        width: min(100%, 100rem);         
         margin-left: auto;
         margin-right: auto;
         padding-left: 1rem;
         padding-right: 1rem;
       }
     
-      /* Make it roomier on small screens (avoid tiny 80% columns on phones) */
       @media (max-width: 768px) {
         .main-content,
-        .page-header { width: 92%; }
+        .page-header { width: 100%; }
       }
     
       /* Tables and images still behave nicely inside the narrower content */
-      .table-container table { width: 100%; }
-      img { max-width: 100%; height: auto; }
+      .table-container table { width: 80%; }
+      img { max-width: 80%; height: auto; }
     </style>
     
 
