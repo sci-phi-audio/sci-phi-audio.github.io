@@ -1151,7 +1151,7 @@ The audio samples were converted from ambisonics into binaural for headphones. P
         A low-reverberant large-sized room with high SNR.
       </td>
       <td>
-        A low-reverberant unknown-sized room with high SNR.“
+        A low-reverberant unknown-sized room with high SNR.
       </td>
     </tr>
   </table>
