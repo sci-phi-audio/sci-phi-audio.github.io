@@ -8,7 +8,7 @@ layout: review
   <u><b><i>Sebastian Braun</i></b></u> (Microsoft Research)
 </div>
 
-<img src="../figures/model.png" style="width: 80%; display: block; margin: auto;">
+<img src="../figures/model.png" style="width: 85%; display: block; margin: auto;">
 
 <style>
   /* Accordion */
