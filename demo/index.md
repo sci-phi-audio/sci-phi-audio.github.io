@@ -4,7 +4,7 @@ layout: review
 
 Authors: <u><b><i>Xilin Jiang</i></b></u> (Columbia University, work done as an intern in MSR), <u><b><i>Hannes Gamper</i></b></u> (Microsoft Research), <u><b><i>Sebastian Braun</i></b></u> (Microsoft Research)
 
-<img src="../figures/model.png" style="width: 90%; display: block; margin: auto;">
+<img src="../figures/model.png" style="width: 80%; display: block; margin: auto;">
 
 <style>
   /* Accordion */
